@@ -1,1 +1,1 @@
-# desenvolve-python-b-sico
+# desenvolve-python-basico
